@@ -80,7 +80,7 @@
                             <span>Sucessful Projects</span>
                         </li>
                     </ul>
-                    <a href="#" class="btn">Download CV <i class="fas fa-download"></i></a>
+                    <a href="cv/cv.pdf" class="btn" target="_blank">Download CV <i class="fas fa-download"></i></a>
                 </div>
             </div>
         </div>
