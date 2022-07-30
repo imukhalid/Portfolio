@@ -29,6 +29,7 @@
             <a href="#" class="logo">Usama k.</a>
             <div class="navigation">
                 <div class="nav-items">
+                    <div class="nav-close-btn"></div>
                     <a class="active" href="/portfolio">Home</a>
                     <a href="#about">About</a>
                     <a href="#skills">Skills</a>
@@ -37,6 +38,7 @@
                     <a href="#contact">Contact</a>
                 </div>
             </div>
+            <div class="nav-menu-btn"></div>
         </div>
     </header>
 
