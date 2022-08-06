@@ -54,7 +54,7 @@
                 <h2>Hi, I am Usama K.</h2>
                 <h3>QA Engineer</h3>
                 <p>I will test your stunning websites/apps and make it bug free, Highly experienced in manual and automation testing</p>
-                <a href="#" class="btn">Contact Me <i class="fas fa-arrow-circle-right"></i></a>
+                <a href="#contact" class="btn">Contact Me <i class="fas fa-arrow-circle-right"></i></a>
             </div>
             <div class="home-image">
                 <img src="images/main-img.png" alt="main-image">
@@ -80,16 +80,16 @@
                     </div>
                     <ul class="professional-list">
                         <li class="list-item">
-                            <h3>5+</h3>
+                            <h3>1.5+</h3>
                             <span>Years of Experience</span>
                         </li>
                         <li class="list-item">
-                            <h3>3K+</h3>
+                            <h3>10+</h3>
                             <span>Happy Customers</span>
                         </li>
                         <li class="list-item">
-                            <h3>5+</h3>
-                            <span>Sucessful Projects</span>
+                            <h3>4+</h3>
+                            <span>Successful Projects</span>
                         </li>
                     </ul>
                     <a href="cv/cv.pdf" class="btn" target="_blank">Download CV <i class="fas fa-download"></i></a>
@@ -106,23 +106,23 @@
             <div class="content">
                 <div class="skills-description">
                     <h3>Education & Skills</h3>
-                    <p>For more than one year our experts have been accomplishing enough with modern Web development, new generation web and app programming language</p>
+                    <p>For more than one year I am experts and have been accomplishing enough with modern software testing, new generation web and mobile apps</p>
                 </div>
                 <div class="skills-info education-all">
                     <div class="education">
                         <h4><label for="">Education</label></h4>
                         <ul class="edu-list">
                             <li class="item">
-                                <span class="year">2020-2021</span>
-                                <p><span>Ph.D in Horribleness</span> Harvard University, Cambridge, MA</p>
+                                <span class="year">2016-2020</span>
+                                <p><span>BS in software Engineering</span> <br> Islamia College Peshawar</p>
                             </li>
                             <li class="item">
-                                <span class="year">2018-2019</span>
-                                <p><span>Computer Science</span>-Imperialism Technical Institute</p>
+                                <span class="year">2014-2016</span>
+                                <p><span>FS.c (Pre Engineering)</span> <br> The Quaid-e-Azam College Swabi</p>
                             </li>
                             <li class="item">
-                                <span class="year">2016-2018</span>
-                                <p><span>Graphic Designer</span>-Web Graph, Los Angeles, CA</p>
+                                <span class="year">2012-2014</span>
+                                <p><span>Matric (Science)</span> <br> The Quaid-e-Azam School Swabi</p>
                             </li>
                         </ul>
                     </div>
@@ -131,36 +131,36 @@
                         <ul class="bars">
                             <li class="bar">
                                 <div class="info">
-                                    <span>HTML</span>
+                                    <span>Manual Testing (Web and Mobile)</span>
                                     <span>95%</span>
                                 </div>
                                 <div class="line html"></div>
                             </li>
                             <li class="bar">
                                 <div class="info">
-                                    <span>CSS</span>
-                                    <span>95%</span>
+                                    <span>Issue Tracking Tools (Jira, Trello, Asana)</span>
+                                    <span>90%</span>
                                 </div>
                                 <div class="line css"></div>
                             </li>
                             <li class="bar">
                                 <div class="info">
-                                    <span>Javascript</span>
-                                    <span>95%</span>
+                                    <span>Automation Framework (Cypress, TestCafe)</span>
+                                    <span>70%</span>
                                 </div>
                                 <div class="line javascript"></div>
                             </li>
                             <li class="bar">
                                 <div class="info">
-                                    <span>Jquery</span>
+                                    <span>TestCases Design, Bug Reports, Test Plans</span>
                                     <span>95%</span>
                                 </div>
                                 <div class="line jquery"></div>
                             </li>
                             <li class="bar">
                                 <div class="info">
-                                    <span>PHP</span>
-                                    <span>95%</span>
+                                    <span>HTML, CSS, Bootstrap, Javascript, PHP</span>
+                                    <span>80%</span>
                                 </div>
                                 <div class="line php"></div>
                             </li>
@@ -170,17 +170,17 @@
                         <h4><label>Awards</label></h4>
                         <ul class="edu-list">
                             <li class="item">
-                                <span class="year">2021</span>
-                                <p><span>Best Developer</span> University of Melbourne, NA</p>
+                                <span class="year">2020</span>
+                                <p><span>Best SQA Engineer</span> <br> WorkBox Pvt Ltd. (Peshawar)</p>
                             </li>
                             <li class="item">
                                 <span class="year">2020</span>
-                                <p><span>Best Writter</span> Online Typodev Soluation Ltd.</p>
+                                <p><span>Lead Engineer</span> <br> WorkBox Pvt Ltd. (Peshawar)</p>
                             </li>
-                            <li class="item">
+                            <!-- <li class="item">
                                 <span class="year">2019</span>
                                 <p><span>Best Freelancer</span> Fiver & Upwork Level2 & Top Rated</p>
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
                 </div>
@@ -190,34 +190,34 @@
                 <div class="skills-info">
                     <div class="experience-card">
                         <div class="upper">
-                            <h3>Sr. Graphic Designer</h3>
-                            <h5>Part Time|Office</h5>
-                            <span>2020 2021</spans>
+                            <h3>Lead SQA Engineer</h3>
+                            <h5>Full Time| Office</h5>
+                            <span>2020-2021</spans>
                         </div>
                         <div class="hr"></div>
-                        <h4><label>Avada Theme.</label></h4>
+                        <h4><label>WorkBox Pvt. Ltd.</label></h4>
                         <p>I design and develop services for customers of all sizes, specializing in
-                        creating stylish, modern websitesk</p>
+                        creating stylish, modern websites</p>
                     </div>
                     <div class="experience-card">
                         <div class="upper">
-                            <h3>Cr. Web Developerk</h3>
-                            <h5>Full Time|InHousek</h5>
-                        <span>2019-2020k</spans>
+                            <h3>SQA Engineer</h3>
+                            <h5>Full Time| Office</h5>
+                        <span>2019-2020</spans>
                         </div>
                         <div class="hr"></div>
-                        <h4><label>ib-themes ltd.k</label></h4>
+                        <h4><label>WorkBox Pvt. Ltd.</label></h4>
                         <p>I design and develop services for customers of all sizes, specializing in
-                        creating stylish, modern websitesk</p>
+                        creating stylish, modern websites</p>
                     </div>
                     <div class="experience-card">
                         <div class="upper">
-                            <h3>Jr. Web Developerk</h3>
-                            <h5>Full Time|Remotek</h5>
-                        <span>2018-2019k</span>
+                            <h3>Jr. Web Developer</h3>
+                            <h5>Part Time| Office</h5>
+                        <span>2019 (For 6 months)</span>
                         </div>
                         <div class="hr"></div>
-                        <h4><label>Creative Gigs.k</label></h4>
+                        <h4><label>SoftTech Pvt. Ltd.</label></h4>
                         <p>I design and develop services for customers of all sizes, specializing in creating stylish, modern websitesk</p>
                     </div>
                 </div>
@@ -238,14 +238,14 @@
                     <li class="service-container">
                         <div class="service-card">
                             <i class="fas fa-pencil-ruler"></i>
-                            <h3>UI/UX Consultancy</h3>
+                            <h3>Manual Testing</h3>
                             <div class="learn-more-btn">Learn More <i class="fas fa-long-arrow-alt-right"></i></div>
                         </div>
                         <div class="service-modal flex-center">
                             <div class="service-modal-body">
                                 <i class="fas fa-times modal-close-btn"></i>
-                                <h3>Ui/UX Consultancy</h3>
-                                <h4>What is Ux consulting?</h4>
+                                <h3>Manual Testing</h3>
+                                <h4>What is Manual Testing?</h4>
                                 <p>UX consulting helps companies improve their product's overall usability and optimize expenses by implementing the right UX processes, methods, and tools.</p>
                                 <h4>What I provide</h4>
                                 <ul>
@@ -261,14 +261,14 @@
                     <li class="service-container">
                         <div class="service-card">
                             <i class="fas fa-photo-video"></i>
-                            <h3>UI/UX Consultancy</h3>
+                            <h3>Jira, Trello, Asana</h3>
                             <div class="learn-more-btn">Learn More <i class="fas fa-long-arrow-alt-right"></i></div>
                         </div>
                         <div class="service-modal flex-center">
                             <div class="service-modal-body">
                                 <i class="fas fa-times modal-close-btn"></i>
-                                <h3>Ui/UX Consultancy</h3>
-                                <h4>What is Ux consulting?</h4>
+                                <h3>Issue Tracking</h3>
+                                <h4>What is Jira, Trello, Asana?</h4>
                                 <p>UX consulting helps companies improve their product's overall usability and optimize expenses by implementing the right UX processes, methods, and tools.</p>
                                 <h4>What I provide</h4>
                                 <ul>
@@ -284,14 +284,14 @@
                     <li class="service-container">
                         <div class="service-card">
                             <i class="fas fa-file-code"></i>
-                            <h3>UI/UX Consultancy</h3>
+                            <h3>TestCases etc.</h3>
                             <div class="learn-more-btn">Learn More <i class="fas fa-long-arrow-alt-right"></i></div>
                         </div>
                         <div class="service-modal flex-center">
                             <div class="service-modal-body">
                                 <i class="fas fa-times modal-close-btn"></i>
-                                <h3>Ui/UX Consultancy</h3>
-                                <h4>What is Ux consulting?</h4>
+                                <h3>Designing TestCases, Test Plans, Bug Report etc.</h3>
+                                <h4>What is Designing TestCases, Test Plans, Bug Report etc?</h4>
                                 <p>UX consulting helps companies improve their product's overall usability and optimize expenses by implementing the right UX processes, methods, and tools.</p>
                                 <h4>What I provide</h4>
                                 <ul>
@@ -307,14 +307,14 @@
                     <li class="service-container">
                         <div class="service-card">
                             <i class="fas fa-align-left"></i>
-                            <h3>UI/UX Consultancy</h3>
+                            <h3>Automation Testing</h3>
                             <div class="learn-more-btn">Learn More <i class="fas fa-long-arrow-alt-right"></i></div>
                         </div>
                         <div class="service-modal flex-center">
                             <div class="service-modal-body">
                                 <i class="fas fa-times modal-close-btn"></i>
-                                <h3>Ui/UX Consultancy</h3>
-                                <h4>What is Ux consulting?</h4>
+                                <h3>Automation Testing</h3>
+                                <h4>What is Automation Testing?</h4>
                                 <p>UX consulting helps companies improve their product's overall usability and optimize expenses by implementing the right UX processes, methods, and tools.</p>
                                 <h4>What I provide</h4>
                                 <ul>
@@ -341,15 +341,14 @@
                         <div class="img-card">
                             <div class="overlay"></div>
                             <div class="info">
-                                <h3>Web Design</h3>
-                                <span>Youtube</span>
+                                <h3>Samtrygg</h3>
                             </div>
                             <img src="images/port-img5.jpg" alt="">
                         </div>
                         <div class="portfolio-model flex-center">
                             <div class="portfolio-model-body">
                                 <i class="fas fa-times portfolio-close-btn"></i>
-                                <h3>Web Design</h3>
+                                <h3>Samtrygg</h3>
                                 <img src="images/port-img5.jpg" alt="">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                                 </p>
@@ -361,15 +360,15 @@
                         <div class="img-card">
                             <div class="overlay"></div>
                             <div class="info">
-                                <h3>Web Design</h3>
-                                <span>Youtube</span>
+                                <h3>DesignFiles</h3>
+                                <!-- <span>Youtube</span> -->
                             </div>
                             <img src="images/port-img2.jpg" alt="">
                         </div>
                         <div class="portfolio-model flex-center">
                             <div class="portfolio-model-body">
                                 <i class="fas fa-times portfolio-close-btn"></i>
-                                <h3>Web Design</h3>
+                                <h3>DesignFiles</h3>
                                 <img src="images/port-img2.jpg" alt="">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                                 </p>
@@ -381,15 +380,15 @@
                         <div class="img-card">
                             <div class="overlay"></div>
                             <div class="info">
-                                <h3>Web Design</h3>
-                                <span>Youtube</span>
+                                <h3>Scripla</h3>
+                                <!-- <span>Youtube</span> -->
                             </div>
                             <img src="images/port-img3.jpg" alt="">
                         </div>
                         <div class="portfolio-model flex-center">
                             <div class="portfolio-model-body">
                                 <i class="fas fa-times portfolio-close-btn"></i>
-                                <h3>Web Design</h3>
+                                <h3>Scripla</h3>
                                 <img src="images/port-img3.jpg" alt="">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
                                 </p>
@@ -491,7 +490,7 @@
                     <ul class="contact-list">
                         <li class="contact-list">
                             <h3 class="item-title"><i class="fas fa-phone"></i> Phone</h3>
-                            <span>+00 123-777-9999</span>
+                            <span>+92 313 2871639</span>
                         </li>
                         <li class="contact-list">
                             <h3 class="item-title"><i class="fas fa-envelope"></i> Email Address</h3>
@@ -499,7 +498,7 @@
                         </li>
                         <li class="contact-list">
                             <h3 class="item-title"><i class="fas fa-map-marker-alt"></i> Official Address</h3>
-                            <span>7249 Brewery Ave, San Francisco, CA 94111</span>
+                            <span>Street 4, Canal Town, Peshawar</span>
                         </li>
                     </ul>
                 </div>
@@ -527,8 +526,8 @@
     <footer>
         <div class="footer-container">
             <div class="about group">
-                <h2>Martian</h2>
-                <p>Front-end Developer</p>
+                <h2>Usama K.</h2>
+                <p>SQA Engineer</p>
                 <!-- <a href="#about">About Me</a> -->
             </div>
             <div class="hr"></div>
